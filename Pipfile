@@ -9,6 +9,8 @@ sklearn = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+lime = "*"
+seaborn = "*"
 
 [dev-packages]
 

@@ -12,6 +12,8 @@ matplotlib = "*"
 lime = "*"
 seaborn = "*"
 tensorflow = "*"
+scikit-image = "*"
+ipywidgets = "*"
 
 [dev-packages]
 

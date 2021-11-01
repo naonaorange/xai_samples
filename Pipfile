@@ -15,6 +15,7 @@ tensorflow = "*"
 scikit-image = "*"
 ipywidgets = "*"
 shap = "*"
+eli5 = "*"
 
 [dev-packages]
 

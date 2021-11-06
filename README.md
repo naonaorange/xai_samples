@@ -1,5 +1,7 @@
 # xai_samples
 
+このリポジトリはXAI技術によるモデル可視化手法のサンプル集です。
+
 | Sample | Explaination 
 -----------|------------
 | [pfi_categorize_iris.ipynb][10] | Permutaion Feature Importanceによる重要な特徴量の可視化

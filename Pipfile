@@ -16,6 +16,7 @@ scikit-image = "*"
 ipywidgets = "*"
 shap = "*"
 eli5 = "*"
+dalex = "*"
 
 [dev-packages]
 
